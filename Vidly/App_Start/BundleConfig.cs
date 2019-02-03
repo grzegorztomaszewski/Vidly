@@ -23,7 +23,7 @@ namespace Vidly
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap-lumen.css", //added lumen bootstrap
+                      "~/Content/bootstrap-lumen.css", //added lumen bootstrapp
                       "~/Content/site.css"));
         }
     }
